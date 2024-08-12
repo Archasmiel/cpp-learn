@@ -1,0 +1,9 @@
+How to setup MinGW:
+https://code.visualstudio.com/docs/cpp/config-mingw
+
+Course:
+https://www.youtube.com/watch?v=-TkoO8Z07hI
+
+
+
+https://youtu.be/-TkoO8Z07hI?si=UsuoKzw7loNUQqGN&t=6355
