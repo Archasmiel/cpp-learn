@@ -34,3 +34,15 @@
 30 - Banking system   [TEST]
 
 
+31 - Rock-Paper-Scissors Game   [TEST]
+32 - Arrays
+33 - sizeof() operator
+34 - Iterating over Arrays
+35 - foreach loop
+36 - Pass array to functions
+37 - Searching for element in array
+38 - Bubble sort and sorting basics
+39 - fill() function
+40 - Filling array by user input   [TEST]
+
+
