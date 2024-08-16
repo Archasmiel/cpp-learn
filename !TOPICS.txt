@@ -46,3 +46,15 @@
 40 - Filling array by user input   [TEST]
 
 
+41 - Multidimensional arrays
+42 - Quiz game   [TEST]
+43 - Memory adresses
+44 - Pass by [VALUE vs REFERENCE]
+45 - Const parameters
+46 - Credit card checker   [TEST]
+47 - Pointers
+48 - Null pointers
+49 - Tic Tac Toe Game   [TEST]
+
+
+50 - 
