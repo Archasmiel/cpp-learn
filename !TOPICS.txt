@@ -57,4 +57,14 @@
 49 - Tic Tac Toe Game   [TEST]
 
 
-50 - 
+50 - Dynamic variables and arrays
+51 - Recursive functions
+52 - Function templates
+53 - struct
+54 - Pass struct as argument(s)
+55 - enum
+56 - Object Oriented Programming
+57 - Constructor
+58 - Constructor overloading 
+59 - Getters and setters
+60 - Inheritance
